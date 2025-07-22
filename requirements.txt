@@ -5,3 +5,5 @@ pdf2image
 Werkzeug
 gunicorn
 easyocr
+
+web: gunicorn app:app
